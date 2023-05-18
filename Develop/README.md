@@ -1,6 +1,6 @@
 ## Password Generator
 
-This is a password generator program that allows you to generate a new, secure password based on your selected criteria. The program prompts you for password criteria such as length and character types, validates your input, and generates a password that matches the selected criteria.
+This is a password generator program that allows you to generate a new, secure password based on your selected criteria. The program prompts you for password criteria such as length and character types, validates your input, and generates a password .
 
 ### How to Use
 
